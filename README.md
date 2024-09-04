@@ -1,3 +1,10 @@
+# [점프투스프링부트3] 02강 프로젝트 구조, 엔티티 클래스
+
+코딩레시피
+
+# https://www.youtube.com/watch?v=M98B8FveYyg&list=PLV9zd3otBRt4y-Ya7OyNBmGGFqNWMAKX0&index=3
+
+
 ## 점프 투 스프링부트3 책의 소스코드
 
 * 위키독스 : https://wikidocs.net/book/7601
